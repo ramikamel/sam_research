@@ -1,0 +1,5 @@
+Processed Data:
+https://utdallas.app.box.com/s/x9fxlpl2d86kxyxqszss18zm0ra6nnlp
+
+RNA Dataset:
+https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data
